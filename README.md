@@ -10,11 +10,6 @@ the application of EVM for tracking cost and schedule performance in a
 large-scale engineering system. The initial proposed budget was $1.6
 million with a target completion time of 530 days.
 
----
-
-## Full Report
-The complete project report is available here:
-[View Full Report](Conveyor_Belt_Project_Report.pdf)
 
 ---
 
@@ -31,7 +26,7 @@ Course: INSY-5373-001 — Project Management
 Project Sponsor: Dr. Michel E. Whittenberg — VP of Operations
 
 > Note: This repository represents my personal documentation
-> of our group project and is shared for portfolio purposes only.
+> of our group project and is shared for my portfolio purposes only.
 
 ---
 
@@ -329,3 +324,13 @@ This project was completed as a group term paper for INSY-5373-001
 at the University of Texas Arlington. No software code is
 included in this repository as the project was conducted using
 Microsoft Project and document-based deliverables.
+
+© 2025 Chaitali Bonke. All rights reserved.
+
+This repository and its contents are the intellectual property of
+Chaitali Bonke. No part of this project, including code, data,
+analysis, or documentation, may be reproduced, distributed,
+transmitted, or used in any form without prior written permission
+from the author.
+
+For permissions or inquiries, contact: your-email@gmail.com
