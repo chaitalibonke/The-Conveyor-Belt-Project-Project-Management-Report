@@ -333,4 +333,4 @@ analysis, or documentation, may be reproduced, distributed,
 transmitted, or used in any form without prior written permission
 from the author.
 
-For permissions or inquiries, contact: your-email@gmail.com
+For permissions or inquiries, contact: chaitali.bonke@gmail.com
